@@ -1,0 +1,83 @@
+.sk-sbm {
+  font-size: 20px;
+  color: #fff; }
+  .sk-sbm li {
+    list-style-type: none; }
+  .sk-sbm .sk-icon-pack {
+    display: block;
+    height: 2em;
+    overflow: hidden;
+    float: left; }
+    .sk-sbm .sk-icon-pack .sk-icon {
+      margin-right: 0px; }
+  .sk-sbm .sk-icon {
+    float: left;
+    width: 2em;
+    height: 2em;
+    text-align: center;
+    overflow: hidden;
+    position: relative; }
+    .sk-sbm .sk-icon:hover {
+      opacity: .7; }
+    .sk-sbm .sk-icon .icon {
+      display: inline-block;
+      width: 1.0em;
+      height: 1.0em;
+      stroke-width: 0;
+      stroke: currentColor;
+      fill: currentColor;
+      position: absolute;
+      left: 0;
+      right: 0;
+      margin-left: auto;
+      margin-right: auto;
+      top: 50%;
+      margin-top: -0.5em; }
+  .sk-sbm .sk-facebook-background,
+  .sk-sbm .sk-facebook.sk-icon,
+  .sk-sbm .sk-facebook.sk-icon-pack,
+  .sk-sbm .sk-facebook .sk-icon,
+  .sk-sbm .sk-facebook .sk-text {
+    background-color: #3b5998; }
+  .sk-sbm .sk-linkedin-background,
+  .sk-sbm .sk-linkedin.sk-icon,
+  .sk-sbm .sk-linkedin.sk-icon-pack,
+  .sk-sbm .sk-linkedin .sk-icon,
+  .sk-sbm .sk-linkedin .sk-text {
+    background-color: #007bb6; }
+  .sk-sbm .sk-twitter-background,
+  .sk-sbm .sk-twitter.sk-icon,
+  .sk-sbm .sk-twitter.sk-icon-pack,
+  .sk-sbm .sk-twitter .sk-icon,
+  .sk-sbm .sk-twitter .sk-text {
+    background-color: #00aced; }
+  .sk-sbm .sk-gplus-background,
+  .sk-sbm .sk-gplus.sk-icon,
+  .sk-sbm .sk-gplus.sk-icon-pack,
+  .sk-sbm .sk-gplus .sk-icon,
+  .sk-sbm .sk-gplus .sk-text {
+    background-color: #dd4b39; }
+  .sk-sbm .sk-tumblr-background,
+  .sk-sbm .sk-tumblr.sk-icon,
+  .sk-sbm .sk-tumblr.sk-icon-pack,
+  .sk-sbm .sk-tumblr .sk-icon,
+  .sk-sbm .sk-tumblr .sk-text {
+    background-color: #35465c; }
+  .sk-sbm .sk-naver-background,
+  .sk-sbm .sk-naver.sk-icon,
+  .sk-sbm .sk-naver.sk-icon-pack,
+  .sk-sbm .sk-naver .sk-icon,
+  .sk-sbm .sk-naver .sk-text {
+    background-color: #39C12E; }
+  .sk-sbm .sk-text, .sk-sbm .sk-icon:after {
+    float: left;
+    height: 2em;
+    line-height: 2em;
+    padding-right: .5em;
+    padding-left: .5em; }
+  .sk-sbm .sk-icon + .sk-text {
+    margin-left: -0.5em; }
+  .sk-sbm .sk-sbm .sk-icon .icon:before {
+    margin: 0; }
+
+/*# sourceMappingURL=sk-sbm.css.map */
